@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>System.Monad</RootNamespace>
+    <AssemblyName>System.Monad</AssemblyName>
+    <PackageId>System.Monad</PackageId>
+    <Version>2.0.0</Version>
+    <Authors>Roc Gao</Authors>
+    <Description>System.Monad for DotNetCore</Description>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="AssemblyInfo.cs"/>
+  </ItemGroup>
+
+</Project>
